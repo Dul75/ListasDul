@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 , RED UNO
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLp5YvY5twKA9XsitC-vO4IE)/dm/3/x828xvr/d/live-2.m3u8
+
+#EXTINF:-1 tvg-id="88" tvg-name="ATB" tvg-logo="https://www.m3u.cl/logo/88_ATB.png", ATB  | BO
+https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="89" tvg-name="Bolivia TV Deportes" tvg-logo="https://www.m3u.cl/logo/89_Bolivia_TV_Deportes.png", Bolivia TV Deportes  | BO
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="90" tvg-name="PAT La Paz" tvg-logo="https://www.m3u.cl/logo/90_PAT_La_Paz.png", PAT La Paz  | BO
+http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="93" tvg-name="RTP" tvg-logo="https://www.m3u.cl/logo/93_RTP.png", RTP  | BO
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="94" tvg-name="TV HD Tropical" tvg-logo="https://www.m3u.cl/logo/94_TV_HD_Tropical.png", TV HD Tropical  | BO
+https://5d79ae45bc63b.streamlock.net:443/radiotropical952/radiotropical952/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 , UNITEL
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7qq4EX5g0UNvXJgpIjtGdY)/dm/3/x7wzxiw/s/live-2.m3u8
+
+#EXTINF:0 tvg-country="BO" tvg-logo="https://i.imgur.com/YdiF5k6.png" group-title="Undefined",BO | TVU,TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 , MUNDO VISION
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+
+#EXTINF:-1 , BOLIVISION
+https://bo-bolivision-lapaz-live.ned.media/aud.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2ODk2MTczLCJzZXNzaW9uIjoiMTgxLjExNS4yNDguNTAiLCJ3aGl0ZWxpc3QiOlsiMjgwMDpjZDA6YmIwMToyMDAwOjNkZjE6ZTg5ODpmNjUwOjYyZDIiXX0sInNpZ25hdHVyZSI6ImM5ZjI2NTEwOTk4MzYzNTc2OWExNzg2MjYyZTY0MDc2OWM0NGU3YzEifQ%3D%3D
+
+
+
